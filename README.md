@@ -1,2 +1,2 @@
 # Hello-World
-Hopefully a first repository of many
+Hopefully the first repository of many
